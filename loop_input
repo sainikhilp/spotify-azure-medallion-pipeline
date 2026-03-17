@@ -20,7 +20,7 @@
   {
     "schema" : "dbo",
     "table" : "DimDate",
-    "cdc_col" : "updated_at",
+    "cdc_col" : "date",
     "from_date" : ""
   },
   {
