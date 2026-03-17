@@ -1,0 +1,9 @@
+{
+	"name": "saispotifyadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "413223ca-e3ba-4582-bece-d7bb1f261d5c",
+		"tenantId": "5e90a561-947a-4187-b41f-84a89ec8ef2c"
+	}
+}
