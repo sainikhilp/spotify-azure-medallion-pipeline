@@ -28,7 +28,6 @@ This project implements an end‑to‑end medallion architecture on Azure using 
 2. Bronze → Databricks streaming/batch transformations → Silver dimensional & fact tables.
 3. Silver → Delta declarative pipeline with SCD2 logic → Gold curated tables.
 
-You can render the architecture diagram directly in this README using Mermaid (see “Architecture Diagram” section below).
 
 ## Features
 
