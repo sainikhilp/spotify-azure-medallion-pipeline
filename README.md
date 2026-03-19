@@ -6,6 +6,15 @@ This project implements an end‑to‑end medallion architecture on Azure using 
 
 ## Architecture
 
+## Architecture
+
+## Architecture
+
+<p align="center">
+  <img src="architecture/project_flow.png" alt="Azure Medallion Pipeline Flow" width="800">
+</p>
+
+
 - **Source**: Azure SQL Database (managed) as the system of record.
 - **Orchestration**: Azure Data Factory (ADF) metadata‑driven pipelines for incremental ingestion and backfilling.
 - **Storage**: Azure Data Lake Storage Gen2 with bronze, silver, and gold containers following medallion architecture.
