@@ -6,10 +6,6 @@ This project implements an end‑to‑end medallion architecture on Azure using 
 
 ## Architecture
 
-## Architecture
-
-## Architecture
-
 <p align="center">
   <img src="architecture/project_flow.png" alt="Azure Medallion Pipeline Flow" width="800">
 </p>
