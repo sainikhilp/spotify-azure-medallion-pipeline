@@ -1,4 +1,4 @@
-# spotify-azure-medallion-pipeline
+# soundwave-azure-medallion-pipeline
 
 ## Overview
 
